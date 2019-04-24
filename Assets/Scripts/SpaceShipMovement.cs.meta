@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 672bea318af36c34095c4f23004ae502
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - Bullet: {fileID: 1917027350720676, guid: abca34fcf5aa3ea4d8263ee63621326c, type: 2}
+  - ScoreText: {instanceID: 0}
+  - Live1: {instanceID: 0}
+  - Live2: {instanceID: 0}
+  - Live3: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
